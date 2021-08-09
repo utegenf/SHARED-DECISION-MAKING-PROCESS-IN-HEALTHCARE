@@ -1,4 +1,4 @@
-# SHARED-DECISION-MAKING-PROCESS-IN-HEALTHCARE
+# Shared decision-making process in Healthcare
 Despite the fact that many people share a desire for more information and participation in the
 health-care process, it is unclear if they have taken a more participatory stance by involving
 in health-care decisions. Research indicates that, in actual practice, individuals are
